@@ -1,5 +1,11 @@
 # pi-discord-remote
 
+> **Superseded standalone repository:** This fork is now maintained in
+> [`hirak99/pi-arnab-extensions`](https://github.com/hirak99/pi-arnab-extensions)
+> under [`packages/discord-remote`](https://github.com/hirak99/pi-arnab-extensions/tree/main/packages/discord-remote).
+> Use the monorepo for current development and installation. This repository is
+> retained for its standalone history.
+>
 > Control your [Pi](https://pi.dev) coding-agent session from Discord.
 
 ![pi-discord-remote demo](demo.gif)
